@@ -1,20 +1,20 @@
-# 👋 ¡Hola, soy Jesús!
+# 👋 Hello, I’m Jesús!
 
 ![GitHub followers](https://img.shields.io/github/followers/Cerrudoxx?style=social)
 
-👨‍💻 Soy estudiante de Ingeniería Informática apasionado por la **computación de alto rendimiento**, la **computación cuántica** y la tecnología en general.
+👨‍💻 I’m a Computer Engineering student passionate about **high-performance computing**, **quantum computing**, and technology in general.
 
-## 🌟 Sobre Mí
+## 🌟 About Me
 
-- 🔭 Actualmente estoy trabajando en un proyecto de **benchmarking del algoritmo de Grover** con simuladores cuánticos en la Fundación COMPUTAEX.
-- 🌱 Estoy aprendiendo sobre **computación cuántica** (Qiskit, Qulacs, Qibo) y **optimización de sistemas paralelos**.
-- 👯 Me encantaría colaborar en proyectos relacionados con **computación de alto rendimiento (HPC)**, **computación cuántica** y de **innovación y desarrollo**-
-- 🤔 Busco siempre desarrollar mis habilidades y aprender.
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/jesuscerrudo/) | [Email](mailto:jesuscerrudoh@gmail.com)
+- 🔭 I’m currently working on a **Grover’s algorithm benchmarking project** with quantum simulators at the Fundación COMPUTAEX.
+- 🌱 I’m learning about **quantum computing** (Qiskit, Qulacs, Qibo) and **parallel system optimization**.
+- 👯 I’d love to collaborate on projects related to **high-performance computing (HPC)**, **quantum computing**, and **innovation and development**.
+- 🤔 I’m always looking to develop my skills and learn.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jesuscerrudo/) | [Email](mailto:jesuscerrudoh@gmail.com)
 
-## 🛠️ Habilidades
+## 🛠️ Skills
 
-### 🔧 Lenguajes
+### 🔧 Languages
 
 - C/C++
 - Python
@@ -22,25 +22,25 @@
 - VHDL
 - SQL
 
-### 🧰 Tecnologías y Herramientas
+### 🧰 Technologies and Tools
 
-- OpenMP y MPI (Programación paralela)
-- CUDA y SSE (Programación vectorial)
-- Qiskit y Qulacs (Computación cuántica)
-- Hadoop y Docker (Sistemas distribuidos)
-- Pytorch y Tensorflow (Redes Neuronales)
-- Git y GitHub (Control de versiones)
-- Linux (Gestión de sistemas)
-- Anaconda (Entornos de desarrollo)
-- Vivado (Programación de FPGAs)
+- OpenMP and MPI (Parallel Programming)
+- CUDA and SSE (Vector Programming)
+- Qiskit and Qulacs (Quantum Computing)
+- Hadoop and Docker (Distributed Systems)
+- PyTorch and TensorFlow (Neural Networks)
+- Git and GitHub (Version Control)
+- Linux (System Management)
+- Anaconda (Development Environments)
+- Vivado (FPGA Programming)
 
-## 📈 Mis Estadísticas en GitHub
+## 📈 My GitHub Stats
 
 ![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cerrudoxx&show_icons=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cerrudoxx)](https://git.io/streak-stats)
 
-## 🤝 ¡Conectemos!
+## 🤝 Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/jesuscerrudo/)
 - [GitHub](https://github.com/Cerrudoxx)
