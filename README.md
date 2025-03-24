@@ -10,7 +10,7 @@
 - 🌱 Estoy aprendiendo sobre **computación cuántica** (Qiskit, Qulacs, Qibo) y **optimización de sistemas paralelos**.
 - 👯 Me encantaría colaborar en proyectos relacionados con **computación de alto rendimiento (HPC)**, **computación cuántica** y de **innovación y desarrollo**-
 - 🤔 Busco siempre desarrollar mis habilidades y aprender.
-- 📫 Cómo contactarme: [LinkedIn](https://linkedin.com/in/jesuscerr) | [Email](mailto:jesuscerrudoh@gmail.com)
+- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/jesuscerrudo/) | [Email](mailto:jesuscerrudoh@gmail.com)
 
 ## 🛠️ Habilidades
 
@@ -42,6 +42,6 @@
 
 ## 🤝 ¡Conectemos!
 
-- [LinkedIn](https://linkedin.com/in/jesuscerr)
+- [LinkedIn](https://www.linkedin.com/in/jesuscerrudo/)
 - [GitHub](https://github.com/Cerrudoxx)
 - [Email](mailto:jesuscerrudoh@gmail.com)
