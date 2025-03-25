@@ -34,13 +34,7 @@
 - Anaconda (Development Environments)
 - Vivado (FPGA Programming)
 
-## 📈 My GitHub Stats
-
-![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cerrudoxx&show_icons=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cerrudoxx)](https://git.io/streak-stats)
-
-## 🤝 Let’s Connect!
+## 🤝 Connect with me!
 
 - [LinkedIn](https://www.linkedin.com/in/jesuscerrudo/)
 - [GitHub](https://github.com/Cerrudoxx)
