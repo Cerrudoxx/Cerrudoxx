@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on a **Grover’s algorithm benchmarking project** with quantum simulators at the Fundación COMPUTAEX.
+- 🔭 I’m currently working on a **Quantum simulators benchmarking project** using Grover's algorithm at the Fundación COMPUTAEX.
 - 🌱 I’m learning about **quantum computing** (Qiskit, Qulacs, Qibo) and **parallel system optimization**.
 - 👯 I’d love to collaborate on projects related to **high-performance computing (HPC)**, **quantum computing**, and **innovation and development**.
 - 🤔 I’m always looking to develop my skills and learn.
