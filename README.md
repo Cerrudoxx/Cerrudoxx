@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Cerrudoxx?style=social)
 
-👨‍💻 I’m a Computer Engineering student passionate about **high-performance computing**, **quantum computing**, and technology in general.
+👨‍💻 I’m a Computer Engineering graduate passionate about **high-performance computing**, **quantum computing**, and technology in general.
 
 ## 🌟 About Me
 
