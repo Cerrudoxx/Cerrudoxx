@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Computer Engineer | R&D Technician in Quantum Computing & HPC at COMPUTAEX Foundation</p>
+<p align="left">Computer Engineer | R&D Technician in Quantum Computing & HPC at Fundación COMPUTAEX</p>
 
 ###
 
@@ -41,8 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cerrudoxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Cerrudoxx&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://metrics.lecoq.io/Cerrudoxx?template=classic&base=activity,repositories&plugin_languages=yes&config.timezone=Europe%2FMadrid" alt="Metrics" />
 </div>
 
 ###
