@@ -8,7 +8,7 @@
 
 <h2 align="left">Technical & Academic Profile</h2>
 
-###
+### 
 
 <p align="left">
   * <b>Research:</b> Specializing in distributed quantum circuit simulation, statevector simulators benchmarking, and quantum algorithms (QAOA, VQE, Grover) applied to High-Performance Computing (HPC) environments.<br>
