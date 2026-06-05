@@ -47,5 +47,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cerrudoxx&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph" />
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@Cerrudo/12c1e48f-f9f2-42aa-980c-5ba3f58853d9.png" alt="WakaTime Stats" />
+  </a>
 </div>
